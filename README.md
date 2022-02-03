@@ -13,5 +13,5 @@ Jupyter notebook with multiple kernel support
 ## Running in docker
 
 ```
-$ docker run -p 8888:8888 --volume='/path/of/notebooks:/server/notebook' jupyter-multi:latest
+$ docker run -p 8888:8888 --volume='/path/of/notebooks:/server/notebook' singhiqbal1007/jupyter-multi:latest
 ```
